@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "@twilio/video-processors": "^1.0.2",
+    "express": "^4.18.2",
+    "serve-static": "^1.15.0",
+    "twilio-video": "^2.25.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "twilio-video-backgrounds",
+  "description": "How to use the Twilio Video Processors library to blur or replace the background in your video calls.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miguelgrinberg/twilio-video-backgrounds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguelgrinberg/twilio-video-backgrounds/issues"
+  },
+  "homepage": "https://github.com/miguelgrinberg/twilio-video-backgrounds#readme",
+  "devDependencies": {}
+}
