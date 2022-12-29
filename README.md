@@ -1,7 +1,7 @@
 # PolyU Virtual Background
 
 ### Online Demo: 
-https://polyu-virtual-background-demo.declanleung.repl.co
+https://polyu-virtual-background-demo.onrender.com
 
 ### Installation Prerequisite: 
 - Node.js
